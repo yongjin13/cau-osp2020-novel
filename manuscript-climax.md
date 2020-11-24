@@ -355,7 +355,7 @@
 
 마녀는 톰의 머리를 귀엽다는 듯이 쓰다듬으며 말했다.
 ```
-역시 고양이는 귀여..크흠...
+역시 고양이는 귀여워..크흠...
 ```
 <p align="center"><img src = "https://user-images.githubusercontent.com/74247115/100088362-5a00bc80-2e93-11eb-9caf-25dc93bf64da.png" width="50%" height="50%">
 
